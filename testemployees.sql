@@ -1,5 +1,4 @@
 use employees;
-create table Rodgers
-(
-Id_number int primary key 
+CREATE TABLE Rodgers (
+    Id_number INT PRIMARY KEY
 );
